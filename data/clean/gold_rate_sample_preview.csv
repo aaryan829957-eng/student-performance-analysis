@@ -1,0 +1,6 @@
+﻿S.No.,Month & Year,Gold Rate / 1g (₹),Gold Rate / 10g (₹),MoM Change (₹),MoM Profit / Loss (%),MoM Status,Cumulative Return vs Oct 2016 (%),Data Source,Gold Rate / 1g (₹) Numeric,Gold Rate / 10g (₹) Numeric,MoM Change (₹) Numeric,MoM Profit / Loss (%) Numeric,Cumulative Return vs Oct 2016 (%) Numeric
+1.0,Oct-16,"₹3,007.14","₹30,071.37",₹0.00,0.00%,Baseline,0.00%,RBI Handbook,3007.14,30071.37,0.0,0.0,0.0
+2.0,Nov-16,"₹2,979.64","₹29,796.43",-₹274.94,-0.91%,Loss,-0.91%,RBI Handbook,2979.64,29796.43,-274.94,-0.91,-0.91
+3.0,Dec-16,"₹2,775.43","₹27,754.29","-₹2,042.14",-6.85%,Loss,-7.71%,RBI Handbook,2775.43,27754.29,-2042.14,-6.85,-7.71
+4.0,Jan-17,"₹2,874.60","₹28,745.95",+₹991.66,3.57%,Profit,-4.41%,RBI Handbook,2874.6,28745.95,991.66,3.57,-4.41
+5.0,Feb-17,"₹2,926.47","₹29,264.74",+₹518.79,1.80%,Profit,-2.68%,RBI Handbook,2926.47,29264.74,518.79,1.8,-2.68
